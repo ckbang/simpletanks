@@ -1,6 +1,6 @@
 # Simple Tanks
 
-Multiplay Simple Tank Shooting Game by PUN
+Photon Unity Network (PUN) Turn-based Multiplay Simple Tank Shooting Game
 
 For educational purpose at Namseoul University
 
@@ -8,28 +8,27 @@ Copyright iNTERVR (http://nsu-intervr.com)
 
 # Specifications
 
-Unity3D 2019.x later
+Unity3D 2019.x later (Built sample was 2019.2.14f1)
 
 PUN 2.0 SDK
 
 2 players turn-based tank shooting simulation game
 
-# Game Manager
+# Required
 
-FSM - Aiming, Ready, Shooting, Result
+Registration to PUN membership using Phton Cloud service. http://www.photonengine.com
 
-Game Init
+PUN2 Free - Import from unity asset store
 
-Game Reset
+Setup Identity - AppId in your unity project
 
-# Tank
+# Topic
 
-ArrowLeft, ArrowRight, ArrowUp, ArrowDown - Aiming Yaw / Pitch
+Connection - Create / Join Room 
 
-PageDn, PageUp - Power Up / Down
+Synchronization - Play turn-based game
 
-Spacebar - Shooting
 
-# Network Event Dispatcher
 
-Sync Game State and Status
+That's it. Enjoy!
+
