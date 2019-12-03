@@ -8,7 +8,7 @@ Copyright iNTERVR (http://nsu-intervr.com)
 
 # Specifications
 
-Unity3D 2019.x later (Built sample was 2019.2.14f1)
+Unity3D 2019.x later (sample was built 2019.2.14f1)
 
 PUN 2.0 SDK
 
