@@ -24,11 +24,11 @@ Setup Identity - AppId in your unity project
 
 # Topic
 
+Setup - Photon Unity Network (PUN) with Photon Cloude service.
+
 Connection - Create / Join Room 
 
 Synchronization - Play turn-based game
-
-
 
 That's it. Enjoy!
 
