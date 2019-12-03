@@ -32,3 +32,32 @@ Synchronization - Play turn-based game
 
 That's it. Enjoy!
 
+# Game Design
+
+- Multiplayer game
+- Max 2 players in room
+- Round robin turn-based
+- Win to hit other tank *(up to you)*
+- Tank Aiming & Shooting with power
+- One shot one kill
+- Simple art - assembled cubic tank, plane ground, big plane ground to collision check
+- Disconnected by Timeout (just sample)
+
+# Sample Controls
+
+- Arrow Keys using tank's aiming
+
+Up/Down: rotation Pitch Up/Down
+
+Left/Right: rotation Yaw Left/Right
+
+- Shooting!!
+
+Spacebar key is fire.
+
+- WASD using camera moving controller (from 3D with extra in built-in unity sample package)
+
+WASD - direction
+
+Mouse Right - rotation eye
+
